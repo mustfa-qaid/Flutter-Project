@@ -1,6 +1,5 @@
 # mmm
 
-A new Flutter project.
 Decryption & Encryption App by Flutter >>>
 
 ## Getting Started
